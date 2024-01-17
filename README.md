@@ -25,7 +25,7 @@ personal layout + public repo for background.	Sometimes i switch to discord link
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif
 		- ![N not included](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif)	
 
-**(Gen7) Sun Moon **
+**(Gen7) Sun Moon**
 - Background
 	- Sky Pillar (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/usum_spear_pillar.gif
