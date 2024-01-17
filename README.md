@@ -1,7 +1,7 @@
 # ShowDown-ShowOff-myttondoingstuff
 MAIN STUFF IS IN [myt_showdown_ui_main](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/myt_showdown_ui_main.css) AND [other_effects](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/other_effects.css)
 
-personal layout + public repo for background.	Sometimes i switch to discord link cuz github is not an image hosting site (shocker!)'
+personal layout + public repo for background.	Sometimes i switch to discord link cuz github is not an image hosting site (shocker!)
 
 mostly made for me to update stuff without making an archive of 2 thousands different discord image links
 
@@ -55,3 +55,14 @@ tools and websites i use:
 - Blender - everything else
 
 gif is the worst format ever made
+
+background legacy
+- https://media.discordapp.net/attachments/843459164029845504/1189130497062879272/distortion_world.gif
+- https://media.discordapp.net/attachments/843459164029845504/1197084234070884402/hgss_whirls_island.gif
+- https://media.discordapp.net/attachments/843459164029845504/1190273289008971786/relic_castle.gif
+- https://media.discordapp.net/attachments/843459164029845504/1190273331606339695/dragonspiral_tower.gif
+- https://media.discordapp.net/attachments/843459164029845504/1190986963516395550/spear_pillar.gif
+- https://media.discordapp.net/attachments/843459164029845504/1189479611973771305/frosty_forest.gif
+- https://media.discordapp.net/attachments/843459164029845504/1197195250012274798/pmd1_stormy_sea.gif
+
+discord doesnt actually stored the files forever i think, idk cant confirm but i read a youtube commemt (100% reliable) before
