@@ -1,0 +1,63 @@
+/* Pick and choose your own flavours */
+/* PLEASE DONT JUST COPY PASTE THE ENTIRE THING, JUST THE ONE YOU NEED!! Stylish is very modular!! you can stack stuff for quick access */
+
+
+/* ------------- */
+/* CUSTOM TRAINNER [YOURS]*/
+/* too lazy to do the right one, i assume you can just change .leftbar to .rightbar and translate x to a positive value*/
+/* ------------- */
+.leftbar .trainersprite  {
+	position: relative;
+	translate: -200px 0px;
+}
+
+.leftbar .trainersprite::after {
+	content: "";
+	position: absolute;
+	background:
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	width: 80px;
+	height: 80px; 
+	top: 7px;	 /* image isnt automatically positioned */ 
+	left: -2px;	 /* you should touch these a bit */ 
+	transform:scale(0.85) scaleX(1); /* not guarateed to scaled perfectly  legacy code, scaleX(-1) to flip it */ 
+	translate: -200px 0px;
+}
+/* This is my own bit to be compatible with the rating line on main */
+.leftbar .trainersprite::before {
+        translate: -200px 0px;
+}
+
+/* ------------- */
+/* CUSTOM BACKGROUND */
+/* Unlike the trainer sprite, this is 1:1, make sure its 640x360 */
+/* ------------- */
+.backdrop:before {
+	content: "";
+	background:
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	image-rendering: pixelated;	/* this is optional */
+	position: absolute;
+	width: 640px;
+	height: 360px;
+	top: 90px;	/* the original image display code on showdown is pure nightmare to look at */
+	left: 50px; 
+}
+
+/* ------------- */
+/* CUSTOM EFFECTS */
+/* blah these have very odd resolution, just use inspect on chrome or whatever to find out :< */
+/* ------------- */
+/* PROTECT */
+.turnstatus-protect {
+	background: rgba(0,0,0, 0) /* RGB and Alpha, since i like my effects to completely be overidden i use 0 alpha, but you do you */
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	border: 0px solid #AA66AA;
+	display: none;
+	position: absolute; 
+	transform: scale(1.25); /* my own preference, i think the showdown one is a bit small */
+	translate: 0px -20px; /* my own preference, i think the showdown one is a bit low */
+}

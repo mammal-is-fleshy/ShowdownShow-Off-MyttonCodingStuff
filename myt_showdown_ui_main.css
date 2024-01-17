@@ -1,0 +1,322 @@
+/* Changes Pokemon Name */
+
+.statbar strong { 
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	color: #FFF;
+	font-size: 14px;
+	font-weight: 700;
+	text-shadow: 0px 0px 2px rgba(0,0,0, 1);
+}
+
+.statbar .hpbar .hptext {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	font-weight: 700;
+	text-shadow: 0px 0px 2px rgba(0,0,0, 1);
+}
+
+/* Changes Turn Box */
+
+.turn {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	color: #FFF;  
+	border: none;
+	background: rgba(0,0,0, 0.5);
+	opacity: 1;
+	font-weight: bold;
+	pad-left: 34px;
+	letter-spacing: 0.3px;
+	translate: 170px 0px;
+	z-index:6 !important;
+}
+
+
+.turn.style {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	color: #FFF;  
+	border: none;
+	background: rgba(0,0,0, 1);
+	font-weight: bold;
+	opacity: 1;
+	translate: 20px 34px;
+	z-index:6
+}
+
+.backdrop {
+  opacity: 1 !important;
+}
+
+.battle { 
+	border: 0;
+}
+
+.leftbar, .rightbar {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	background: none;
+	border: none;
+	color: #FFF;
+	text-shadow: 0px 0px 4px rgba(0,0,0, 1);
+		z-index: 2;
+}
+
+/* Trainer Names */
+.leftbar .trainer strong {
+	position: relative !important;
+	font-size: 18px;
+	top: -30px;
+	left: 63px;
+	font-weight: 500;
+	text-align: left;
+}
+
+.rightbar .trainer strong {
+	font-weight: 500;
+	font-size: 18px;
+	position: relative !important;
+	top: -5px;
+	right: 95px;
+	text-align: right;
+}
+
+/* Trainer Names */
+.spacer.battle-history + .battle-history small::before {
+	content: "☀ ";
+	font-weight: bold;
+	color: #5264bd;
+}
+
+.spacer.battle-history + .battle-history small {
+	font-weight: bold;
+	color: #5264bd;
+}
+
+.spacer.battle-history + h2.battle-history::before {
+	content: "⇌ ";
+	opacity: 0.2;
+}
+
+
+.chat.message-error {
+	color: #bd5252;
+}
+
+
+.chat.message-error:nth-child(odd) {
+	font-weight: bold;
+}
+
+.chat.message-error::before {
+	content: "⧗  ";	
+	color: #bd5252;
+}
+
+abbr[title] {
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* Chat n Battle Log */
+
+.battle-log {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	border: none;
+}
+
+#tooltipwrapper .tooltip {
+	font-family: 'Ubuntu', Trebuchet MS, Verdana;
+	letter-spacing: 0.3px;
+	border: 1px solid #e3e3e3;
+	background: rgba(255,255,255, 0.95);
+}
+
+/* Pokemon Icons */
+
+.leftbar .trainer .teamicons {
+	float: left !important;
+	position: relative !important;
+	top: 0px !important;
+	right: 0px !important;
+	opacity: 1 !important;
+}
+
+.rightbar .trainer .teamicons {
+	float: left !important;
+	position: relative !important;
+	top: 20px !important;
+	right: 0px !important;
+	opacity: 1 !important;
+}
+
+/* Pokemon Icon Positions*/
+
+.rightbar .teamicons:nth-of-type(2)  span:nth-of-type(1) {
+	position: relative !important;
+	top: 5px !important;
+	left: 167px !important;
+}
+
+.rightbar .teamicons:nth-of-type(2)  span:nth-of-type(2) {
+	position: relative !important;
+	top: 40px !important;
+	left: 134px !important;
+}
+
+.rightbar .teamicons:nth-of-type(2)  span:nth-of-type(3) {
+	position: relative !important;
+	top: 75px !important;
+	left: 102px !important;
+}
+
+.rightbar .teamicons:nth-of-type(3) span:nth-of-type(1) {
+	position: relative !important;
+	top: 110px !important;
+	left: 69px !important;
+}
+
+.rightbar .teamicons:nth-of-type(3) span:nth-of-type(2) {
+	position: relative !important;
+	top: 145px !important;
+	left: 37px !important;
+}
+
+.rightbar .teamicons:nth-of-type(3) span:nth-of-type(3) {
+	position: relative !important;
+	top: 180px !important;
+	left: 5px !important;
+}
+
+.leftbar .teamicons:nth-of-type(2)  span:nth-of-type(1) {
+	position: relative !important;
+	top: 0px !important;
+	left: 38px !important;
+}
+
+.leftbar .teamicons:nth-of-type(2)  span:nth-of-type(2) {
+	position: relative !important;
+	top: 35px !important;
+	left: 5px !important;
+}
+
+.leftbar .teamicons:nth-of-type(2)  span:nth-of-type(3) {
+	position: relative !important;
+	top: 70px !important;
+	left: -27px !important;
+}
+
+.leftbar .teamicons:nth-of-type(3) span:nth-of-type(1) {
+	position: relative !important;
+	top: 105px !important;
+	left: -60px !important;
+}
+
+.leftbar .teamicons:nth-of-type(3) span:nth-of-type(2) {
+	position: relative !important;
+	top: 140px !important;
+	left: -92px !important;
+}
+
+.leftbar .teamicons:nth-of-type(3) span:nth-of-type(3) {
+	position: relative !important;
+	top: 175px !important;
+	left: -124px !important;
+}
+
+/* Whole Frame */
+
+.trainer div.teamicons {
+	width: 97px;
+	height: 30px;
+	left: 25px;
+}
+
+
+.rightbar .trainer {
+	margin-top: 50px;
+}
+
+.picon {
+	z-index: 2;
+}
+
+.leftbar {
+	top: -125px; 
+	left: -57px;
+}
+
+/* Trainer Sprite */
+/* Remove Pixelated if ugly */
+.leftbar .trainersprite  {
+	filter: blur(0px);
+   	opacity: 1;
+	position: relative;
+	image-rendering: pixelated;
+	left: -70px;
+	top: -20px;
+}
+
+.rightbar .trainersprite {
+	filter: blur(0px);
+	opacity: 1;
+	position: relative !important;
+		image-rendering: pixelated; 
+	left: 40px;
+	top: 10px;
+}
+
+.leftbar {
+	position: absolute !important;
+	top: 145px !important;
+	left: 10 !important;
+	height: 95px !important;
+	width: 320px !important;
+}
+
+.rightbar {
+	position: absolute !important;
+	top: 278px !important;
+	right: -90px !important;
+	height: 95px !important;
+	width: 320px !important;
+}
+
+.leftbar .trainersprite::before {
+  content: attr(title);
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  font-size: 12px;
+  opacity: 1;
+  font-weight: bold;
+  background: rgba(0,0,0, 0.5);
+  border-radius:5px;
+  padding: 2px;
+  transform:scaleX(-1)
+}
+
+
+.rightbar .trainersprite::before {
+  content: attr(title);
+  position: absolute;
+  top: -16px;
+  left: -10px;
+  font-size: 12px;
+  opacity: 100%;
+  font-weight: bold;
+  background: rgba(0,0,0, 0.5);
+  border-radius:5px;
+  padding: 2px;
+  transform:scaleX(1)
+}
+
+.weather em {
+	color: #FFF;
+	font-weight: 500;
+	text-shadow: 0px 0px 4px rgba(0,0,0, 1);
+	letter-spacing: 0.3px;
+}
