@@ -14,9 +14,9 @@ personal layout + public repo for background.	Sometimes i switch to discord link
 
 **(Gen5) Black White**
 - Trainer
-	- Animted Prechampion Iris
+	- Animated Prechampion Iris
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif
-		- ![Realest Champion ever for that wide lens sing lapras](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	
+		- ![Realest Champion ever for that wide lens sing lapras](https://cdn.discordapp.com/attachments/843459164029845504/1197085817374511144/bw_iris_animated.gif?)	
 - Background
 	- Relic Castle (Recreated)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif
