@@ -22,7 +22,7 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 - Background
 	- Relic Castle (Recreated)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif
-		- ![](https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif)
 	- Dragonspiral Tower (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif)	
@@ -44,7 +44,7 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif)	
 	- Stormy Sea (Ported + Modified)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif
-		- ![](https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_stormy_sea.gif)	
 
 tools and websites i use:
 - [EZGIF](https://ezgif.com) (do note that it doesnt (i think) have frame disposing so the layers merge instead of replace, doesnt matter but if youre wondering why the filesize is relatively small compare to the other gif makers, there you go)
