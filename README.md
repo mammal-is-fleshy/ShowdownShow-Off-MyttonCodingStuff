@@ -9,42 +9,42 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 - Background
 	- Distortion World (Recreated)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif)		
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif)		
 	- Whirls Island (Ported | Modified)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1197084234070884402/hgss_whirls_island.gif
-		- !(https://cdn.discordapp.com/attachments/843459164029845504/1197084234070884402/hgss_whirls_island.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/hgss_whirls_island.gif)	
 
 **(Gen5) Black White**
 - Trainer
 	- Animated Prechampion Iris
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	
 - Background
 	- Relic Castle (Recreated)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif)	
+		- ![](https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif)	
 	- Dragonspiral Tower (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif)	
 
 **(Gen7) Sun Moon**
 - Background
 	- Sky Pillar (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/usum_spear_pillar.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/usum_spear_pillar.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/usum_spear_pillar.gif)	
 
 **(Gen8) Sword Shield | Rescue Team DX**
 - Effects
 	- Protect (Inspired)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif)	
 - Background
 	- Frosty Forest (Ported)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif
-		- !(https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif)	
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif)	
 	- Stormy Sea (Ported + Modified)
 		- https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif
-		- !(https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif)	
+		- ![](https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif)	
 
 tools and websites i use:
 - [EZGIF](https://ezgif.com) (do note that it doesnt (i think) have frame disposing so the layers merge instead of replace, doesnt matter but if youre wondering why the filesize is relatively small compare to the other gif makers, there you go)
