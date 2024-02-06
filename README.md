@@ -65,4 +65,4 @@ background legacy
 - https://media.discordapp.net/attachments/843459164029845504/1189479611973771305/frosty_forest.gif
 - https://media.discordapp.net/attachments/843459164029845504/1197195250012274798/pmd1_stormy_sea.gif
 
-discord doesnt actually stored the files forever i think, idk cant confirm but i read a youtube commemt (100% reliable) before
+discord doesnt actually store the files forever i think, idk cant confirm but i read a youtube commemt (100% reliable) before

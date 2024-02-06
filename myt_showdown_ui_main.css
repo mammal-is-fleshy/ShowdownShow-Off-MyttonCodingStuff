@@ -46,7 +46,7 @@
 }
 
 .backdrop {
-  opacity: 1 !important;
+	opacity: 1 !important;
 }
 
 .battle { 
@@ -60,7 +60,7 @@
 	border: none;
 	color: #FFF;
 	text-shadow: 0px 0px 4px rgba(0,0,0, 1);
-		z-index: 2;
+	z-index: 2;
 }
 
 /* Trainer Names */
@@ -68,7 +68,7 @@
 	position: relative !important;
 	font-size: 18px;
 	top: -30px;
-	left: 63px;
+	left: 68px;
 	font-weight: 500;
 	text-align: left;
 }
@@ -78,7 +78,7 @@
 	font-size: 18px;
 	position: relative !important;
 	top: -5px;
-	right: 95px;
+	right: 98px;
 	text-align: right;
 }
 
@@ -255,8 +255,8 @@ abbr[title] {
 	filter: blur(0px);
    	opacity: 1;
 	position: relative;
-	image-rendering: pixelated;
-	left: -70px;
+/*	image-rendering: pixelated; */
+	left: -55px;
 	top: -20px;
 }
 
@@ -264,8 +264,8 @@ abbr[title] {
 	filter: blur(0px);
 	opacity: 1;
 	position: relative !important;
-		image-rendering: pixelated; 
-	left: 40px;
+/*		image-rendering: pixelated;  */
+	left: 25px;
 	top: 10px;
 }
 
@@ -286,32 +286,32 @@ abbr[title] {
 }
 
 .leftbar .trainersprite::before {
-  content: attr(title);
-  position: absolute;
-  top: -10px;
-  left: -10px;
-  font-size: 12px;
-  opacity: 1;
-  font-weight: bold;
-  background: rgba(0,0,0, 0.5);
-  border-radius:5px;
-  padding: 2px;
-  transform:scaleX(-1)
+	content: attr(title);
+	position: absolute;
+	top: -10px;
+	left: 0px;
+	font-size: 12px;
+	opacity: 1;
+	font-weight: bold;
+	background: rgba(0,0,0, 0.5);
+	border-radius:5px;
+	padding: 2px;
+	transform:scaleX(-1)
 }
 
 
 .rightbar .trainersprite::before {
-  content: attr(title);
-  position: absolute;
-  top: -16px;
-  left: -10px;
-  font-size: 12px;
-  opacity: 100%;
-  font-weight: bold;
-  background: rgba(0,0,0, 0.5);
-  border-radius:5px;
-  padding: 2px;
-  transform:scaleX(1)
+	content: attr(title);
+	position: absolute;
+	top: -16px;
+	left: 0px;
+	font-size: 12px;
+	opacity: 100%;
+	font-weight: bold;
+	background: rgba(0,0,0, 0.5);
+	border-radius:5px;
+	padding: 2px;
+	transform:scaleX(1)
 }
 
 .weather em {
