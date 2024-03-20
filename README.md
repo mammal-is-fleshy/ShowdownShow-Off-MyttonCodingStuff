@@ -1,7 +1,7 @@
 # ShowDown-ShowOff-myttondoingstuff
 MAIN STUFF IS IN [myt_showdown_ui_main](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/myt_showdown_ui_main.css) AND [other_effects](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/other_effects.css)
 
-personal layout + public repo for background.	Sometimes i switch to discord link cuz github is not an image hosting site (shocker!)
+personal layout + public repo for background.
 
 mostly made for me to update stuff without making an archive of 2 thousands different discord image links
 
@@ -11,7 +11,7 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif)		
 	- Whirls Island (Ported | Modified)
-		- https://cdn.discordapp.com/attachments/843459164029845504/1197084234070884402/hgss_whirls_island.gif
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/hgss_whirls_island.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/hgss_whirls_island.gif)	
 
 **(Gen5) Black White**
@@ -21,7 +21,7 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	
 - Background
 	- Relic Castle (Recreated)
-		- https://cdn.discordapp.com/attachments/843459164029845504/1190273289008971786/relic_castle.gif
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif)
 	- Dragonspiral Tower (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif
@@ -39,11 +39,14 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif)	
 - Background
+	- Wyndon (Ported + Modified)
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon.gif
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon.gif)		
 	- Frosty Forest (Ported)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif)	
 	- Stormy Sea (Ported + Modified)
-		- https://cdn.discordapp.com/attachments/843459164029845504/1189525653159170108/stormy_sea.gif
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_stormy_sea.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_stormy_sea.gif)	
 
 tools and websites i use:
@@ -53,6 +56,7 @@ tools and websites i use:
 - [Textures-Resource](https://www.textures-resource.com) (for some reason, most bw sprites are stored here)
 - Krita - drawing stuff
 - Blender - everything else
+
 
 gif is the worst format ever made
 
@@ -65,4 +69,4 @@ background legacy
 - https://media.discordapp.net/attachments/843459164029845504/1189479611973771305/frosty_forest.gif
 - https://media.discordapp.net/attachments/843459164029845504/1197195250012274798/pmd1_stormy_sea.gif
 
-discord doesnt actually store the files forever i think, idk cant confirm but i read a youtube commemt (100% reliable) before
+discord doesnt actually store the files forever i think, idk cant confirm but i read a youtube comment (100% reliable) before, seems to be true for DM though
