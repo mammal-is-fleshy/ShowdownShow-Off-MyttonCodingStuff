@@ -44,6 +44,7 @@
 	height: 360px;
 	top: 90px;	/* the original image display code on showdown is pure nightmare to look at */
 	left: 50px; 
+	transform:scale(1.05);	/* bodge for screen shaking effect like eq, slightly enlarge the image to workaround clipping */
 }
 
 /* ------------- */
