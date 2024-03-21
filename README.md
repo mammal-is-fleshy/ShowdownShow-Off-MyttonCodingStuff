@@ -40,6 +40,9 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif)	
 - Background
 	- Wyndon (Ported + Modified)
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_circhester.gif
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_circhester.gif)		
+	- Circhester (Ported + Modified)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon.gif)		
 	- Frosty Forest (Ported)
@@ -54,6 +57,7 @@ tools and websites i use:
 - [Models-Resource](https://www.models-resource.com) (for Ported)
 - [Spriters-Resource](https://www.spriters-resource.com) (gen 4 and 5 stuff)
 - [Textures-Resource](https://www.textures-resource.com) (for some reason, most bw sprites are stored here)
+- [Desperative](https://www.deviantart.com/desperative/gallery/71870348/pokemon-related) (Sword Shield stage ports)
 - Krita - drawing stuff
 - Blender - everything else
 
