@@ -4,11 +4,11 @@
 
 /* ------------- */
 /* CUSTOM TRAINNER [YOURS]*/
-/* too lazy to do the right one, i assume you can just change .leftbar to .rightbar and translate x to a positive value*/
+/* too lazy to do the right one, just change .leftbar to .rightbar and translate x to a positive value(keep the :after and :before though), you need like 5px in y in translate for some reason for the opponenet* /
 /* ------------- */
 .leftbar .trainersprite  {
 	position: relative;
-	translate: -200px 0px;
+	translate: -200px 0px;	/* 200px 0px if rightbar */ 
 }
 
 .leftbar .trainersprite::after {
@@ -21,8 +21,8 @@
 	height: 80px; 
 	top: 7px;	 /* image isnt automatically positioned */ 
 	left: -2px;	 /* you should touch these a bit */ 
-	transform:scale(0.85) scaleX(1); /* not guarateed to scaled perfectly  legacy code, scaleX(-1) to flip it */ 
-	translate: -200px 0px;
+	transform:scale(0.85) scaleX(1); /* not guarateed to scaled perfectly  legacy code, scaleX(-1) to flip it, */ 
+	translate: -200px 0px;	/* -200px 5px if rightbar */ 
 }
 /* This is my own bit to be compatible with the rating line on main */
 .leftbar .trainersprite::before {
