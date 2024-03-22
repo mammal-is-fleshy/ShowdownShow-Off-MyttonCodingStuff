@@ -16,9 +16,12 @@ mostly made for me to update stuff without making an archive of 2 thousands diff
 
 **(Gen5) Black White**
 - Trainer
-	- Animated Prechampion Iris
+	- Prechampion Iris
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif
 		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	
+	- Skyla
+		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_skyla_animated.gif
+		- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_skyla_animated.gif)	
 - Background
 	- Relic Castle (Recreated)
 		- https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif
