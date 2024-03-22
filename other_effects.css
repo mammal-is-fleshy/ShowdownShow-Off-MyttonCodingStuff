@@ -50,6 +50,7 @@
 /* ------------- */
 /* CUSTOM EFFECTS */
 /* blah these have very odd resolution, just use inspect on chrome or whatever to find out :< */
+/* the effect's resolution on your side and opponenet's side are DIFFERENT, for some reason, the image will not be perfectly scaled if the opponent use it */
 /* ------------- */
 /* PROTECT */
 .turnstatus-protect {
@@ -59,6 +60,6 @@
 	border: 0px solid #AA66AA;
 	display: none;
 	position: absolute; 
-	transform: scale(1.25); /* my own preference, i think the showdown one is a bit small */
-	translate: 0px -20px; /* my own preference, i think the showdown one is a bit low */
+	transform: scale(1.25); /* own preference */
+	translate: 0px -20px; /* remove it need be, showdown is a bit small for my liking */
 }

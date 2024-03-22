@@ -250,7 +250,7 @@ abbr[title] {
 }
 
 /* Trainer Sprite */
-/* Remove Pixelated if ugly */
+/* Enable Pixelated if ugly */
 .leftbar .trainersprite  {
 	filter: blur(0px);
    	opacity: 1;
@@ -264,7 +264,7 @@ abbr[title] {
 	filter: blur(0px);
 	opacity: 1;
 	position: relative !important;
-/*		image-rendering: pixelated;  */
+/*	image-rendering: pixelated;  */
 	left: 25px;
 	top: 10px;
 }
